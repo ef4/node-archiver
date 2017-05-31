@@ -127,7 +127,7 @@ describe('plugins', function() {
 
     it('should append multiple entries', function() {
       assert.isArray(actual);
-      assert.lengthOf(actual, 8);
+      assert.lengthOf(actual, 9);
     });
 
     it('should append buffer', function() {

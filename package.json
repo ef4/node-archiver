@@ -36,7 +36,7 @@
     "lodash": "^4.8.0",
     "readable-stream": "^2.0.0",
     "tar-stream": "^1.5.0",
-    "zip-stream": "^1.1.0",
+    "zip-stream": "https://github.com/archiverjs/node-zip-stream#722ed7b54a3bc83cf77dff830ff5853af641036e",
     "walkdir": "^0.0.11"
   },
   "devDependencies": {
